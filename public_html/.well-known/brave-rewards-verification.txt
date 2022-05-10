@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ddrinformatica.com.ar
+Token: 1fd06fd770a893e13aac70a1be73c1b34b999a4db71492354e0bb6efbf77c802
